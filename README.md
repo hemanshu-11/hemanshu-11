@@ -1,7 +1,7 @@
 **Hi there, I'm Hemanshu M**
 **About Me**
 Course :-  B.Tech CSE (Artificial Intelligence & Machine Learning) | 1st Year
-University:-  Vellore Institute Of Technology Bhopal 
+University:-  Vellore Institute Of Technology Bhopal
 
 **What I Hope to Learn**
 I would like to learn and gain knowledge about Artificial Intelligence and Machine Learning. I would like to learn about how intelligent systems work and how I can apply this knowledge to solve real-world problems. Also, I would like to learn how to apply various tools and techniques to solve real-world problems.
